@@ -58,12 +58,12 @@ This project provides a simple graphical interface for managing customer details
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
-### 🖥 Main Interface
+### Main Interface
 ![Main Interface](Screenshots/main_interface.png)
 
-### 🧾 Generated Bill
+### Generated Bill
 ![Generated Bill](Screenshots/sample_bill.png)
 
 ---
@@ -85,5 +85,12 @@ This project provides a simple graphical interface for managing customer details
 - Product inventory management system  
 - Search previous bills  
 - Sales analytics dashboard  
-- Improved UI design using modern frameworks  
+- Improved UI design using modern frameworks
+
+---
+
+## Author
+
+**Maisha Rahman**  
+Electrical & Electronic Engineering Student 
 
