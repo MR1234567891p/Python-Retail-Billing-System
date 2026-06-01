@@ -1,66 +1,89 @@
-# python-retail-billing-system
-A desktop-based billing application developed using Python and Tkinter. The software allows users to manage customer information, calculate taxes automatically, generate invoices, and create itemized bills through a graphical user interface.
+# Python Retail Billing System
 
-📌 Features
-Customer Management
-Customer name entry
-Phone number entry
-Auto-generated bill number
-Product Categories
-Cosmetics
-Bath Soap
-Face Cream
-Face Wash
-Hair Shampoo
-Body Lotion
-Hair Oil
-Grocery
-Rice
-Daal
-Food Oil
-Wheat
-Sugar
-Tea
-Others
-Mojo
-Drinko
-Frooto
-Nimki
-Chanachur
-Biscuits
-Billing Functions
-Automatic subtotal calculation
-Tax calculation
-Itemized invoice generation
-Bill preview area
-Clear and reset functionality
-🛠 Technologies Used
-Python
-Tkinter
-Object-Oriented Programming (OOP)
-📷 Screenshots
-Main Interface
+A desktop-based billing application built using Python and Tkinter.  
+This project provides a simple graphical interface for managing customer details, calculating product bills, applying taxes, and generating itemized invoices.
 
-(Add screenshot here)
+---
 
-Generated Bill
+## Features
 
-(Add screenshot here)
+### Customer Management
+- Customer name input
+- Phone number input
+- Auto-generated unique bill number
 
-🏗 Project Structure
-billing_app.py
-screenshots/
-README.md
-📚 Concepts Demonstrated
-Python GUI Development
-Event-Driven Programming
-Object-Oriented Design
-User Interface Development
-Basic Business Logic Implementation
-🚀 Future Improvements
-PDF invoice export
-Customer database integration
-Product inventory management
-Sales analytics dashboard
-Search previous bills
-SQLite backend support
+### Product Categories
+
+#### Cosmetics
+- Bath Soap  
+- Face Cream  
+- Face Wash  
+- Hair Shampoo  
+- Body Lotion  
+- Hair Oil  
+
+#### Grocery
+- Rice  
+- Daal  
+- Food Oil  
+- Wheat  
+- Sugar  
+- Tea  
+
+#### Others
+- Mojo  
+- Drinko  
+- Frooto  
+- Nimki  
+- Chanachur  
+- Biscuits  
+
+---
+
+## Billing Features
+
+- Automatic total calculation per category  
+- Tax calculation (5% applied per category)  
+- Item-wise invoice generation  
+- Real-time bill display  
+- Clear and reset functionality  
+
+---
+
+## Technologies Used
+
+- Python  
+- Tkinter (GUI Library) 
+- Object-Oriented Programming (OOP)
+
+---
+
+## Screenshots
+
+### Main Interface
+*(Add screenshot here: screenshots/main_interface.png)*
+
+### Generated Bill
+*(Add screenshot here: screenshots/sample_bill.png)*
+
+---
+
+## Key Concepts Demonstrated
+
+- GUI development using Tkinter  
+- Event-driven programming  
+- Object-Oriented Design (Classes & Methods)  
+- Input handling using Tkinter variables  
+- Basic accounting logic implementation  
+
+---
+
+## Future Improvements
+
+- Export bill as PDF invoice  
+- Save customer history using database (SQLite)  
+- Product inventory management system  
+- Search previous bills  
+- Sales analytics dashboard  
+- Improved UI design using modern frameworks  
+
