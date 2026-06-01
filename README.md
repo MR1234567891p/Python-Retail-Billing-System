@@ -58,13 +58,13 @@ This project provides a simple graphical interface for managing customer details
 
 ---
 
-## Screenshots
+## 📷 Screenshots
 
-### Main Interface
-*(Add screenshot here: screenshots/main_interface.png)*
+### 🖥 Main Interface
+![Main Interface](screenshots/main_interface.png)
 
-### Generated Bill
-*(Add screenshot here: screenshots/sample_bill.png)*
+### 🧾 Generated Bill
+![Generated Bill](screenshots/sample_bill.png)
 
 ---
 
